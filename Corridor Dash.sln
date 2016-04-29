@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corridor Dash.CSharp.Plugins", "Corridor Dash.CSharp.Plugins.csproj", "{F773936C-D0D3-DBC2-DFCE-FCB1B6B64C91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corridor Dash.CSharp", "Corridor Dash.CSharp.csproj", "{A64C869C-C9A2-E3E5-D2D6-4CE38D3C8260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F773936C-D0D3-DBC2-DFCE-FCB1B6B64C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F773936C-D0D3-DBC2-DFCE-FCB1B6B64C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F773936C-D0D3-DBC2-DFCE-FCB1B6B64C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F773936C-D0D3-DBC2-DFCE-FCB1B6B64C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64C869C-C9A2-E3E5-D2D6-4CE38D3C8260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64C869C-C9A2-E3E5-D2D6-4CE38D3C8260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64C869C-C9A2-E3E5-D2D6-4CE38D3C8260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64C869C-C9A2-E3E5-D2D6-4CE38D3C8260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
